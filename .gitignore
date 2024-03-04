@@ -3,6 +3,7 @@
 */.vscode/
 *\build
 *\.vs
+*.idea
 */packages
 .vscode/settings.json
 *.env
