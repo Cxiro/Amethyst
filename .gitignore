@@ -13,3 +13,5 @@ AmethystLauncher/build/
 AmethystLauncher/node_modules/
 AmethystLauncher/.vscode/
 AmethystLauncher/dist/
+*AmethystAPI/cmake-build-debug/
+*cmake-build-debug/
